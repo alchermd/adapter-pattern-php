@@ -1,0 +1,17 @@
+{
+  "name": "alchermd/adapter-pattern",
+  "description": "Adapter pattern in PHP",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "John Alcher Doloiras",
+      "email": "johnalcherdoloiras@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Acme\\": "./src"
+    }
+  },
+  "require": {}
+}
